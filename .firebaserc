@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "react-ssr-with-firebase",
+    "new-staging": "react-ssr-firebase"
+  }
+}
